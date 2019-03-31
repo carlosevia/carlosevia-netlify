@@ -1,11 +1,11 @@
 # specify site authors in this file
 # you can add .yml files for any other global data in this folder
 
-dan_urbanowicz:
+carlos_evia:
     name: Carlos Evia
     email: cevia@vt.edu
     web: https://www.carlosevia.com
-john_doe:
-    name: John Doe
-    email: johndoe@email.com
-    web: http://twitter.com/johndoe
+tim_lockridge:
+    name: Tim Lockridge
+    email: timlockridge@gmail.com
+    web: http://www.timlockridge.com
