@@ -2,6 +2,8 @@
 
 - text: Home
   url: /
+- text: Book
+  url: /pages/book
 - text: Publications
   url: https://scholar.google.com/citations?hl=en&user=aQBOeR4AAAAJ&view_op=list_works&gmla=AJsN-F4mXH4b8xnfa4yn4LdfS8f2kOw7nMYE6En57iVaiMcZW6OPtW7GbaeDK7mOs4vkgoslhW_vhxbr48_3Lsd-BlF5ZDUfl4C9ZE6PbZO12s-qHTr6bKs
 - text: Academic
