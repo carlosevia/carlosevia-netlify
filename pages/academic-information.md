@@ -2,21 +2,23 @@
 layout: page
 title: Academic information
 section: '{{name}}'
-intro_paragraph: >-
-  I received my Ph.D. in Technical Communication and Rhetoric from the
-  Department of English at Texas Tech University in May 2004. I also hold a
-  Master's in Computer Systems from Universidad La Salle, in Mexico City, and a
-  B.A. in Communication from the Instituto de Ciencias Sociales de Mérida
-  (ICSMAC), in Yucatan, Mexico.
+
 ---
+
+I received my Ph.D. in Technical Communication and Rhetoric from the
+Department of English at Texas Tech University in May 2004. I also hold a
+Master's in Computer Systems from Universidad La Salle, in Mexico City, and a
+B.A. in Communication from the Instituto de Ciencias Sociales de Mérida
+(ICSMAC), in Yucatan, Mexico.
+
 ## Courses
 
 In spring 2019, I am teaching COMM 2034: Visual Media.
 
 ## Student committees
 
-* Allison Hutchison (Rhetoric and Writing), doctoral dissertation (committee chair).
-* Tana Schiewer (Rhetoric and Writing), "The Nonprofit Mission Statement as Genre: Speech Acts, Social Facts, and Ecologies." Doctoral dissertation (committee member). Graduated Fall 2017.
+- Allison Hutchison (Rhetoric and Writing), doctoral dissertation (committee chair).
+- Tana Schiewer (Rhetoric and Writing), "The Nonprofit Mission Statement as Genre: Speech Acts, Social Facts, and Ecologies." Doctoral dissertation (committee member). Graduated Fall 2017.
 * Jessica Beckett (Rhetoric and Writing), "Negotiating Expertise: The Strategies Writing Program Administrators Use to Mediate Disciplinary and Institutional Values." Doctoral dissertation (committee member). Graduated Spring 2017.
 * Ivette Valenzuela (Biomedical and Veterinary Sciences), "Community-based Lifestyle Intervention for Underserved Hispanics with Pre-Diabetes and Type 2 Diabetes in Southwest Virginia." Doctoral dissertation (committee member). Graduated Fall 2015.
 * Brittany Hoskins (English), "The Rhetoric of Commoditized Vulnerabilities: Ethical Discourses in Cybersecurity." Master's thesis (committee member). Graduated May 2015.
@@ -34,4 +36,3 @@ In spring 2019, I am teaching COMM 2034: Visual Media.
 * Emily Davis (English). "XML Version of the Dictionary of Love." Master's independent study (second reader). Graduated May, 2007.
 * Olgamary Rivera-Marrero (Mathematics). "The Place of Discrete Mathematics in the School Curriculum." Doctoral dissertation (committee member). Graduated May, 2007.
 * Miranda Jones (English). "Basic Writing and Computers." Master's independent study (second reader). Graduated May, 2005.
-
