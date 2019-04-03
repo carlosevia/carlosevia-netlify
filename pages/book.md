@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Book
+title: LwDITA Book
 section: '{{name}}'
 intro_paragraph: _Creating Intelligent Content with Lightweight DITA_
 ---
