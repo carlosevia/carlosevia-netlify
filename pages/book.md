@@ -8,3 +8,5 @@ intro_paragraph: >-
   Language (XML) structures and simplifies its authoring experience.
 ---
 ![Cover of Creating Intelligent Content with Lightweight DITA](/assets/img/uploads/evia-book.jpg)
+
+* [Companion GitHub repository](https://github.com/carlosevia/lwdita-book) for the book (with errata and LwDITA updates)
