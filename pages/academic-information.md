@@ -17,7 +17,9 @@ In spring 2019, I am teaching COMM 2034: Visual Media.
 
 * [My "official" webpage](https://liberalarts.vt.edu/departments-and-schools/department-of-communication/faculty/carlos-evia.html) on the Virginia Tech College of Liberal Arts and Human Sciences
 * [The Lightweight DITA subcommittee GitHub repository](https://github.com/oasis-tcs/dita-lwdita)
-* [My GitHub profile](https://github.com/carlosevia) (full of weird experiments and half-abandoned LwDITA monsters)
+* [My GitHub profile](https://github.com/carlosevia) (full of weird experiments and half-abandoned LwDITA monsters).
+
+
 
 ## Student committees
 
