@@ -11,7 +11,12 @@ B.A. in Communication from the Instituto de Ciencias Sociales de Mérida
 
 ## Courses
 
-In spring 2019, I am teaching COMM 2034: Visual Media.
+In the fall 2019 semester, I am teaching the following courses:
+
+* COMM 2034: Visual Media
+* COMM 2094: Communication and Issues of Diversity
+
+I am also supervising an undergraduate research project on the topic of preparing future content professionals.
 
 ## Links
 
@@ -19,11 +24,9 @@ In spring 2019, I am teaching COMM 2034: Visual Media.
 * [The Lightweight DITA subcommittee GitHub repository](https://github.com/oasis-tcs/dita-lwdita)
 * [My GitHub profile](https://github.com/carlosevia) (full of weird experiments and half-abandoned LwDITA monsters).
 
-
-
 ## Student committees
 
-* Allison Hutchison (Rhetoric and Writing), doctoral dissertation (committee chair).
+* Allison Hutchison (Rhetoric and Writing), "Assessing the Feasibility of Online Writing Support for Technical Writing Students." Doctoral dissertation (committee chair). Graduated May 2019.
 * Tana Schiewer (Rhetoric and Writing), "The Nonprofit Mission Statement as Genre: Speech Acts, Social Facts, and Ecologies." Doctoral dissertation (committee member). Graduated Fall 2017.
 * Jessica Beckett (Rhetoric and Writing), "Negotiating Expertise: The Strategies Writing Program Administrators Use to Mediate Disciplinary and Institutional Values." Doctoral dissertation (committee member). Graduated Spring 2017.
 * Ivette Valenzuela (Biomedical and Veterinary Sciences), "Community-based Lifestyle Intervention for Underserved Hispanics with Pre-Diabetes and Type 2 Diabetes in Southwest Virginia." Doctoral dissertation (committee member). Graduated Fall 2015.
