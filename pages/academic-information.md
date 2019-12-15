@@ -11,12 +11,11 @@ B.A. in Communication from the Instituto de Ciencias Sociales de Mérida
 
 ## Courses
 
-In the fall 2019 semester, I am teaching the following courses:
+In the spring 2020 semester, I am teaching the following course:
 
-* COMM 2034: Visual Media
 * COMM 2094: Communication and Issues of Diversity
 
-I am also supervising an undergraduate research project on the topic of preparing future content professionals.
+I am also supervising an undergraduate research project on the topic of intelligent content for communication professionals.
 
 ## Links
 
