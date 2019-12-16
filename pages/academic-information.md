@@ -15,6 +15,8 @@ In the spring 2020 semester, I am teaching the following course:
 
 * COMM 2094: Communication and Issues of Diversity
 
+
+
 I am also supervising an undergraduate research project on the topic of intelligent content for communication professionals.
 
 ## Links
