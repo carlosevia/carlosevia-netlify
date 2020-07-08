@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Academic information
-section: '{{name}}'
+section: "{{name}}"
 ---
 I received my Ph.D. in Technical Communication and Rhetoric from the
 Department of English at Texas Tech University in May 2004. I also hold a
@@ -11,13 +11,11 @@ B.A. in Communication from the Instituto de Ciencias Sociales de Mérida
 
 ## Courses
 
-In the spring 2020 semester, I am teaching the following course:
+In the fall 2020 semester, I am teaching the following courses:
 
 * COMM 2094: Communication and Issues of Diversity
+* CMST 5814: Communication Graduate Seminar. Topic: ContentOps.
 
-
-
-I am also supervising an undergraduate research project on the topic of intelligent content for communication professionals.
 
 ## Links
 
