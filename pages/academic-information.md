@@ -14,7 +14,7 @@ B.A. in Communication from the Instituto de Ciencias Sociales de Mérida
 In the fall 2020 semester, I am teaching the following courses:
 
 * COMM 2094: Communication and Issues of Diversity
-* CMST 5814: Communication Graduate Seminar. Topic: ContentOps.
+* CMST 5814: Communication Graduate Seminar. Topic: Introduction to Content Operations.
 
 ---
 
