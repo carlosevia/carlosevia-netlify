@@ -16,7 +16,7 @@ In the fall 2020 semester, I am teaching the following courses:
 * COMM 2094: Communication and Issues of Diversity
 * CMST 5814: Communication Graduate Seminar. Topic: Introduction to Content Operations.
 
----
+- - -
 
 ## Links
 
@@ -27,6 +27,7 @@ In the fall 2020 semester, I am teaching the following courses:
 ## Student committees
 
 * Emma Baumgardner (Communication). Master's thesis (committee member).
+* Langlee King (Communication). Master's thesis (committee member).
 * Allison Hutchison (Rhetoric and Writing), "Assessing the Feasibility of Online Writing Support for Technical Writing Students." Doctoral dissertation (committee chair). Graduated May 2019.
 * Tana Schiewer (Rhetoric and Writing), "The Nonprofit Mission Statement as Genre: Speech Acts, Social Facts, and Ecologies." Doctoral dissertation (committee member). Graduated Fall 2017.
 * Jessica Beckett (Rhetoric and Writing), "Negotiating Expertise: The Strategies Writing Program Administrators Use to Mediate Disciplinary and Institutional Values." Doctoral dissertation (committee member). Graduated Spring 2017.
