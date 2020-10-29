@@ -26,6 +26,7 @@ In the fall 2020 semester, I am teaching the following courses:
 
 ## Student committees
 
+* Amilia Evans (Rhetoric and Writing). Doctoral dissertation (committee member).
 * Emma Baumgardner (Communication). Master's thesis (committee member).
 * Langlee King (Communication). Master's thesis (committee member).
 * Allison Hutchison (Rhetoric and Writing), "Assessing the Feasibility of Online Writing Support for Technical Writing Students." Doctoral dissertation (committee chair). Graduated May 2019.
