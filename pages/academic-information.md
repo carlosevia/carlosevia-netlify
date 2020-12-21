@@ -9,13 +9,6 @@ Master's in Computer Systems from Universidad La Salle, in Mexico City, and a
 B.A. in Communication from the Instituto de Ciencias Sociales de Mérida
 (ICSMAC), in Yucatan, Mexico.
 
-## Courses
-
-In the fall 2020 semester, I am teaching the following courses:
-
-* COMM 2094: Communication and Issues of Diversity
-* CMST 5814: Communication Graduate Seminar. Topic: Introduction to Content Operations.
-
 - - -
 
 ## Links
