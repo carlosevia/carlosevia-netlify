@@ -26,9 +26,3 @@ But we were under the TC rules.
 ## The TC wants a LwDITA spec
 
 ldld ld d
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hQugcviHDTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-lelel dld 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/89degLrNZM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
