@@ -49,6 +49,8 @@ At one point, after a long discussion about how a DITA-based spec was huge for M
 
 Now, after two years of trying to tame that wave and using the DITA 2.0 spec as the source for the LwDITA spec, I crash and let the wave take me to the shore. And the shore is comfortable. I am lucky that I still have my job(s) as full professor, CTO, and associate dean. Other members of the LwDITA SC really life for/of this... and that must be frustrating. 
 
-I have questioned if LwDITA fizzled because of me. But then I remember how I recruited or involved Larry Kollar, Garen Torikian, Tom Johnson, Adam Retter, Hannah Kirk, and others. I talked to them and got them excited about LwDITA.... but the OASIS membership requirements and the spec development expectations from the TC diluted their original enthusiasm.
+I have questioned if LwDITA fizzled because of me. But then I remember how I recruited or involved Larry Kollar, Garen Torikian, Tom Johnson, Adam Retter, Hannah Kirk, and others. I talked to them and got them excited about LwDITA.... but the OASIS membership requirements and the spec development expectations from the TC diluted their original enthusiasm. LwDITA does not need the DITA infrastructure to reach its audience.
 
-I will keep teaching DITA (and LwDITA) in my courses, and my current and next writing/research projects do mention DITA but are more embracing of other tools and approaches for structuring and delivering content.
+I will keep teaching DITA (and LwDITA) in my courses, and my current and next writing/research projects do mention DITA but are more embracing of other tools and approaches for structuring and delivering content. Today, we do not know if the LwDITA SC will continue. We do not know if there will ever be a LwDITA spec.
+
+If anyone wants to talk more about DITA or LwDITA, I am here and happy to chat.
