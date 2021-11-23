@@ -47,7 +47,7 @@ At one point, after a long discussion about how a DITA-based spec was huge for M
 
 ![A cartoon by Mark Giffin showing Carlos surfing the DITA waves in a Markdown surfboard](/assets/img/uploads/pamjflmlkcfnkool.jpg "Surfing the DITA wave with LwDITA tools")
 
-Now, after two years of trying to tame that wave and using the DITA 2.0 spec as the source for the LwDITA spec, I crash and let the wave take me to the shore. And the shore is comfortable. I am lucky that I still have my job(s) as full professor, CTO, and associate dean. Other members of the LwDITA SC really life for/of this... and that must be frustrating. 
+Now, after two years of trying to tame that wave and using the DITA 2.0 spec as the source for the LwDITA spec, I crash and let the wave take me to the shore. And the shore is comfortable. I am lucky that I still have my job(s) as full professor, CTO, and associate dean. Other members of the LwDITA SC really live for/of this... and that must be frustrating. 
 
 I have questioned if LwDITA fizzled because of me. But then I remember how I recruited or involved Larry Kollar, Garen Torikian, Tom Johnson, Adam Retter, Hannah Kirk, and others. I talked to them and got them excited about LwDITA.... but the OASIS membership requirements and the spec development expectations from the TC diluted their original enthusiasm. LwDITA does not need the DITA infrastructure to reach its audience.
 
