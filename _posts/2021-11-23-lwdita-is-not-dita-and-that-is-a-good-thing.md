@@ -39,7 +39,9 @@ For the historical part of the book, I interviewed a few former IBMers who worke
 
 For a couple of years, I worked on the book for a (mainly) academic audience, although at some conferences I have received positive feedback from industry managers and content developers. At the same time, Alan and I were following the OASIS recommendations and during weekends we were writing a LwDITA spec using XDITA, HDITA, and MDITA.
 
-But the TC wanted LwDITA as a stepping stone for DITA adoption, and the LwDITA SC one day woke up with a new directive: the LwDITA spec **must** (RFC119 and all) be written in DITA XML and reuse content from the DITA spec. Lightweight formats shlightweight formats.  
+But the TC wanted LwDITA as a stepping stone for DITA adoption, and the LwDITA SC one day woke up with a new directive: the LwDITA spec **must** (RFC119 and all) be written in DITA XML and reuse content from the DITA spec. Lightweight formats shlightweight formats.  I acknowledge that the TC spec editors (lovely and incredibly knowledgeable individuals) spent hours working on a structure for the new LwDITA spec (written in DITA and reusing content from the DITA spec), but the work that Alan, Michael, and I did in our LwDITA spec written in LwDITA was discarded just like that.
+
+The format and TC requirements won over the needs of our audience and the idea of making the LwDITA spec the ultimate LwDITA project. 
 
 ldld ld d
 
