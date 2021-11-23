@@ -47,12 +47,8 @@ At one point, after a long discussion about how a DITA-based spec was huge for M
 
 ![A cartoon by Mark Giffin showing Carlos surfing the DITA waves in a Markdown surfboard](/assets/img/uploads/pamjflmlkcfnkool.jpg "Surfing the DITA wave with LwDITA tools")
 
- 
+Now, after two years of trying to tame that wave and using the DITA 2.0 spec as the source for the LwDITA spec, I crash and let the wave take me to the shore. And the shore is comfortable. I am lucky that I still have my job(s) as full professor, CTO, and associate dean. Other members of the LwDITA SC really life for/of this... and that must be frustrating. 
 
-ldld ld d
+I have questioned if LwDITA fizzled because of me. But then I remember how I recruited or involved Larry Kollar, Garen Torikian, Tom Johnson, Adam Retter, Hannah Kirk, and others. I talked to them and got them excited about LwDITA.... but the OASIS membership requirements and the spec development expectations from the TC diluted their original enthusiasm.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/hQugcviHDTA' frameborder='0' allowfullscreen></iframe></div>
-
-
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/89degLrNZM8' frameborder='0' allowfullscreen></iframe></div>
+I will keep teaching DITA (and LwDITA) in my courses, and my current and next writing/research projects do mention DITA but are more embracing of other tools and approaches for structuring and delivering content.
