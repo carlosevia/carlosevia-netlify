@@ -41,7 +41,13 @@ For a couple of years, I worked on the book for a (mainly) academic audience, al
 
 But the TC wanted LwDITA as a stepping stone for DITA adoption, and the LwDITA SC one day woke up with a new directive: the LwDITA spec **must** (RFC119 and all) be written in DITA XML and reuse content from the DITA spec. Lightweight formats shlightweight formats.  I acknowledge that the TC spec editors (lovely and incredibly knowledgeable individuals) spent hours working on a structure for the new LwDITA spec (written in DITA and reusing content from the DITA spec), but the work that Alan, Michael, and I did in our LwDITA spec written in LwDITA was discarded just like that.
 
-The format and TC requirements won over the needs of our audience and the idea of making the LwDITA spec the ultimate LwDITA project. 
+The format and TC requirements won over the needs of our audience and the idea of making the LwDITA spec the ultimate LwDITA project. The DITA spec is a highly structured document that could double as a doctoral dissertation on content reuse. It is not lightweight at all, and it's all XML oriented and based. Adapting and reusing its contents for readers and (use cases) that involve HDITA and Markdown because they perceive XML as being too complex for their needs was a frustrating nightmare. And that was my experience with the SC/TC for a couple of years.
+
+At one point, after a long discussion about how a DITA-based spec was huge for Markdown users, Mark Giffin sent me the following cartoon:
+
+![A cartoon by Mark Giffin showing Carlos surfing the DITA waves in a Markdown surfboard](/assets/img/uploads/pamjflmlkcfnkool.jpg "Surfing the DITA wave with LwDITA tools")
+
+ 
 
 ldld ld d
 
