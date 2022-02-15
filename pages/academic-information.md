@@ -13,8 +13,7 @@ B.A. in Communication from the Instituto de Ciencias Sociales de Mérida
 
 ## Links
 
-* [My "official" webpage](https://liberalarts.vt.edu/departments-and-schools/department-of-communication/faculty/carlos-evia.html) on the Virginia Tech College of Liberal Arts and Human Sciences
-* [The Lightweight DITA subcommittee GitHub repository](https://github.com/oasis-tcs/dita-lwdita)
+* [My "official" webpage](https://liberalarts.vt.edu/departments-and-schools/department-of-communication/faculty/carlos-evia.html) on the Virginia Tech College of Liberal Arts and Human Science
 * [My GitHub profile](https://github.com/carlosevia) (full of weird experiments and half-abandoned LwDITA monsters).
 
 ## Student committees
