@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ContentOps
+title: Content Operations from Start to Scale
 section: "{{name}}"
 intro_paragraph: |
   Perspectives from Industry Experts
