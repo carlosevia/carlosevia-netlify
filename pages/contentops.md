@@ -3,7 +3,8 @@ layout: page
 title: Content Operations from Start to Scale
 section: "{{name}}"
 intro_paragraph: |
-  Perspectives from Industry Experts. Edited by Carlos Evia.
+  Perspectives from Industry Experts.
+  Edited by Carlos Evia.
 ---
 An introduction to Content Operations (ContentOps), its place in the organization, and how we can use its principles to deliver better content at scale. 
 
