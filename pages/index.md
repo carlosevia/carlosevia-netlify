@@ -7,7 +7,7 @@ intro_paragraph: ""
 ---
 ![Carlos Evia](/assets/img/uploads/ce.jpg)
 
-Tim is a n00b. I am a Professor of Communication, Associate Dean for Transdisciplinary Initiatives, and Chief Technology Officer in the [College of Liberal Arts and Human Sciences](https://liberalarts.vt.edu/) at Virginia Tech. I am also Director of the [Academy of Transdisciplinary Studies](https://liberalarts.vt.edu/research-centers/academy-of-transdisciplinary-studies.html). I am affiliated with the Virginia Tech Centers for [Human-Computer Interaction](http://hci.vt.edu/) and [Communicating Science](https://communicatingscience.isce.vt.edu/). I am also member of the stakeholder committee for the Virginia Tech [Center for Humanities](https://liberalarts.vt.edu/research-centers/center-for-humanities.html). 
+I am a Professor of Communication, Associate Dean for Transdisciplinary Initiatives, and Chief Technology Officer in the [College of Liberal Arts and Human Sciences](https://liberalarts.vt.edu/) at Virginia Tech. I am also Director of the [Academy of Transdisciplinary Studies](https://liberalarts.vt.edu/research-centers/academy-of-transdisciplinary-studies.html). I am affiliated with the Virginia Tech Centers for [Human-Computer Interaction](http://hci.vt.edu/) and [Communicating Science](https://communicatingscience.isce.vt.edu/). I am also member of the stakeholder committee for the Virginia Tech [Center for Humanities](https://liberalarts.vt.edu/research-centers/center-for-humanities.html). 
 
 My research focuses on planning and developing technology-based solutions for workplace communication problems. Those technology-based solutions frequently include technical content structured in a workflow following the Darwin Information Typing Architecture (DITA).
 
