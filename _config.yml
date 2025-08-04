@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Carlos Evia, PhD
+title: Carlos Evia Puerto, PhD
 email: cevia@vt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Carlos Evia, associate professor of Communication at Virginia Tech.
+  Carlos Evia Puerto, associate professor of Communication at Virginia Tech.
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
 url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
 
