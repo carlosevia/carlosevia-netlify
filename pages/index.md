@@ -11,11 +11,7 @@ intro_paragraph: ""
 
 I am Professor of Communication, Associate Dean for Transdisciplinary Initiatives, and Chief Technology Officer in the [College of Liberal Arts and Human Sciences](https://liberalarts.vt.edu/) at Virginia Tech. I am affiliated with the Virginia Tech Centers for [Human-Computer Interaction](http://hci.vt.edu/) and [Communicating Science](https://communicatingscience.isce.vt.edu/). 
 
-My research focuses on planning and developing technology-based solutions for workplace communication problems. Those technology-based solutions frequently include technical content structured in a workflow following the Darwin Information Typing Architecture (DITA).
-
-[Why two last names?](https://webpages.charlotte.edu/mperez19/twolastnames.html)
-
-
+My research focuses on planning and developing technology-based solutions for workplace communication problems. Those technology-based solutions frequently include technical content structured in a workflow following the Darwin Information Typing Architecture (DITA)
 
 - - -
 
