@@ -12,24 +12,6 @@ It describes how the need for disciplinary approaches to design, manage, and del
 
 A thorough assessment of the implications of the discipline of content for technical communication, this book will be of interest to students and scholars in the fields of technical writing, professional and public writing, content strategy, content marketing and information design.
 
-### Table of contents
+Published by [Routledge](https://www.routledge.com/Technical-Communication-and-the-Discipline-of-Content-Considerations-for-Research-Training-and-Career-Readiness/Andersen-Evia/p/book/9781032588469).
 
-**SECTION I: Discrepancies, Challenges, and Opportunities**  
-
-Introduction  
-
-1. Embracing Content in Technical Communication’s Collective Identity  
-2. Emergence of the Discipline of Content  
-
-**SECTION II: Roles, Activities, and Career Trajectories**  
-
-3. Changing Technical Communicator Roles and Activities  
-4. Hiring Needs for Entry-Level Content-Focused Jobs  
-
-**SECTION III: Competencies, Curricular Pathways, and Programmatic Innovations**  
-
-5. Technical Communication Literacy Frameworks and Approaches to Identifying Competencies and Skills  
-6. A Competencies Framework for Technical Content Professionals  
-7. Preparing Students for Roles and Activities in the Discipline of Content.
-
-Forthcoming in Fall 2025 from [Routledge](https://www.routledge.com/Technical-Communication-and-the-Discipline-of-Content-Considerations-for-Research-Training-and-Career-Readiness/Andersen-Evia/p/book/9781032588469).
+[Companion GitHub repository](https://github.com/VT-Evia/content-discipline) for the book.
