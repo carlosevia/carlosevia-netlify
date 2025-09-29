@@ -5,7 +5,7 @@ permalink: /
 section: home
 intro_paragraph: ""
 ---
-![Carlos Evia](/assets/img/uploads/ce.jpg)
+![Carlos Evia](/assets/img/uploads/ce.jpeg)
 
 **First name:** Carlos. **Last names:** Evia Puerto
 
