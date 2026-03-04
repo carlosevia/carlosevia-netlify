@@ -11,6 +11,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.10"
 gem "base64"
 gem "bigdecimal"
+gem "kramdown-parser-gfm"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
