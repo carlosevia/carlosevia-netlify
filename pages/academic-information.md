@@ -3,11 +3,9 @@ layout: page
 title: Academic information
 section: "{{name}}"
 ---
-I received my Ph.D. in Technical Communication and Rhetoric from the
-Department of English at Texas Tech University in May 2004. I also hold a
-Master's in Computer Systems from Universidad La Salle, in Mexico City, and a
-B.A. in Communication from the Instituto de Ciencias Sociales de Mérida
-(ICSMAC), in Yucatan, Mexico.
+I received my Ph.D. in Technical Communication and Rhetoric from the Department of English at Texas Tech University in May 2004. I also hold a Master's in Computer Systems from Universidad La Salle, in Mexico City, and a B.A. in Communication from the Instituto de Ciencias Sociales de Mérida (ICSMAC), in Yucatan, Mexico. My academic formation —spanning communication, rhetoric, and computer systems— shapes my current work at the intersection of content strategy, automation, and AI, where I examine how human communicators design, structure, and maintain their relevance in increasingly automated information environments.
+
+**Research interests:** Content operations and automation; structured authoring (DITA, Lightweight DITA, Markdown); AI and algorithmic interpretation of human-authored content; technical communication pedagogy; the role of human communicators in AI-driven information environments.
 
 - - -
 
