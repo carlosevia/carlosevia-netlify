@@ -8,4 +8,4 @@ intro_paragraph: ""
 * [Creating Intelligent Content with Lightweight DITA](book.html)
 * [Content Operations from Start to Scale](contentops.html)
 * [Technical Communication and the Discipline of Content (with Rebekka Andersen)](discipline.html)
-*﻿ [The Uninvited Author (with Sarah O'Keefe)](the-uninvited-author.html)
+* [The Uninvited Author (with Sarah O'Keefe)](the-uninvited-author.html) 
