@@ -6,7 +6,7 @@ intro_paragraph: |
   Perspectives from Industry Experts.
   Edited by Carlos Evia.
 ---
-![Covert of the Content Operations edited collection](/assets/img/uploads/contentops.png)
+![Cover of the Content Operations edited collection](/assets/img/uploads/contentops.png)
 
 An introduction to Content Operations (ContentOps), its place in the organization, and how we can use its principles to deliver better content at scale. 
 
