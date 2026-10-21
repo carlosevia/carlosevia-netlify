@@ -14,4 +14,4 @@ Tailored for executives, content professionals, and educators, The Uninvited Aut
 
 The Uninvited Author is indispensable for resilient content operations in the age of AI.
 
-C﻿oming soon from [Scriptorium Publishing](https://www.scriptorium.com/the-uninvited-author/).
+From [Scriptorium Publishing](https://store.scriptorium.com/product/the-uninvited-author-ai-intent-and-the-future-of-content-print/).
