@@ -3,6 +3,10 @@ layout: home
 title: Welcome
 permalink: /
 section: home
+description: >-
+  Carlos Evia Puerto, Professor of Communication and Chief Technology
+  Officer at Virginia Tech, researching content operations, structured
+  authoring, and algorithmic intention in AI-driven information environments.
 intro_paragraph: ""
 ---
 ![Carlos Evia](/assets/img/uploads/ce.jpeg)
