@@ -3,16 +3,20 @@ layout: page
 title: About
 permalink: /about
 section: about
+description: >-
+  Carlos Evia is Professor of Communication, Associate Dean of Strategic
+  Initiatives, and Chief Technology Officer in the College of Liberal Arts
+  and Human Sciences at Virginia Tech, researching content operations,
+  structured authoring, and algorithmic intention in AI-driven information
+  environments.
 intro_paragraph: |
-  This is an example of a standard Jekyll page. You can edit it with Netlify
-  CMS, accessible at `/admin/index.html` or by editing `pages/about.md` in a text editor.
+  Professor of Communication, Associate Dean of Strategic Initiatives, and
+  Chief Technology Officer at Virginia Tech.
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am Professor of Communication, Associate Dean of Strategic Initiatives, and Chief Technology Officer in the [College of Liberal Arts and Human Sciences](https://liberalarts.vt.edu/) at Virginia Tech. I lead the college's **Tech for Humanity (TfH)** initiative and am affiliated with the Virginia Tech Centers for [Human-Computer Interaction](http://hci.vt.edu/) and [Communicating Science](https://communicatingscience.isce.vt.edu/).
 
-### A heading
+My work sits at the intersection of content, technology, and human communication. I research how structured authoring, automation, and artificial intelligence are transforming the way organizations create, manage, and deliver information — including how algorithmic systems impose their own intention on content as they generate, rank, and mediate it.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I hold a Ph.D. in Technical Communication and Rhetoric from the Department of English at Texas Tech University, a Master's in Computer Systems from Universidad La Salle in Mexico City, and a B.A. in Communication from the Instituto de Ciencias Sociales de Mérida (ICSMAC) in Yucatán, Mexico.
 
-#### Another heading
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+See my [academic information](/pages/academic-information) page for research interests, student committees, and links, or my [books](/pages/books) page for my published work, including *The Uninvited Author: AI, Intent, and the Future of Content*.

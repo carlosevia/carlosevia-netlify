@@ -2,6 +2,10 @@
 layout: page
 title: The Uninvited Author
 section: "{{name}}"
+description: >-
+  The Uninvited Author: AI, Intent, and the Future of Content introduces
+  algorithmic intention (intentio algorithmi) and guides content operations
+  teams through the product liability, bias, and fabrication risks of AI.
 intro_paragraph: "*The Uninvited Author: AI, Intent, and the Future of Content*"
 ---
 ![Cover of The Uninvited Author](/assets/img/uploads/uninvited_author_cover.png)

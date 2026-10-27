@@ -2,6 +2,10 @@
 layout: page
 title: Academic information
 section: "{{name}}"
+description: >-
+  Carlos Evia's academic background, research interests in content
+  operations, structured authoring, and AI, and links to his publications
+  and student committees.
 ---
 I received my Ph.D. in Technical Communication and Rhetoric from the Department of English at Texas Tech University in May 2004. I also hold a Master's in Computer Systems from Universidad La Salle, in Mexico City, and a B.A. in Communication from the Instituto de Ciencias Sociales de Mérida (ICSMAC), in Yucatan, Mexico. My academic formation —spanning communication, rhetoric, and computer systems— shapes my current work at the intersection of content strategy, automation, and AI, where I examine how human communicators design, structure, and maintain their relevance in increasingly automated information environments.
 

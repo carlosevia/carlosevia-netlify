@@ -16,9 +16,21 @@
 title: Carlos Evia Puerto, PhD
 email: cevia@vt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Carlos Evia Puerto, associate professor of Communication at Virginia Tech.
+  Carlos Evia Puerto, Professor of Communication at Virginia Tech, researching
+  content operations, structured authoring, and algorithmic intention (intentio
+  algorithmi) in AI-driven information environments.
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
-url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://www.carlosevia.com" # the base hostname & protocol for your site, e.g. https://example.com
+
+# jekyll-seo-tag settings (https://github.com/jekyll/jekyll-seo-tag)
+author:
+  name: "Carlos Evia"
+social:
+  name: "Carlos Evia"
+  links:
+    - "https://github.com/carlosevia"
+    - "https://scholar.google.com/citations?hl=en&user=aQBOeR4AAAAJ"
+    - "https://liberalarts.vt.edu/departments-and-schools/department-of-communication/faculty/carlos-evia.html"
 
 # Permalink format (/blog/ is ignored for pages)
 permalink: /blog/:title
