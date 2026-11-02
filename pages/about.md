@@ -3,17 +3,15 @@ layout: page
 title: About
 permalink: /about
 section: about
-description: >-
-  Carlos Evia is Professor of Communication, Associate Dean of Strategic
-  Initiatives, and Chief Technology Officer in the College of Liberal Arts
-  and Human Sciences at Virginia Tech, researching content operations,
+description: Carlos Evia is Professor of Communication, Associate Dean of
+  Strategic Initiatives, and Chief Technology Officer in the College of Liberal
+  Arts and Human Sciences at Virginia Tech, researching content operations,
   structured authoring, and algorithmic intention in AI-driven information
   environments.
-intro_paragraph: |
-  Professor of Communication, Associate Dean of Strategic Initiatives, and
-  Chief Technology Officer at Virginia Tech.
+intro_paragraph: Professor of Communication, Associate Dean of Strategic
+  Initiatives and Technology Management at Virginia Tech.
 ---
-I am Professor of Communication, Associate Dean of Strategic Initiatives, and Chief Technology Officer in the [College of Liberal Arts and Human Sciences](https://liberalarts.vt.edu/) at Virginia Tech. I lead the college's **Tech for Humanity (TfH)** initiative and am affiliated with the Virginia Tech Centers for [Human-Computer Interaction](http://hci.vt.edu/) and [Communicating Science](https://communicatingscience.isce.vt.edu/).
+I am Professor of Communication, Associate Dean of Strategic Initiatives and Technology Management in the [College of Liberal Arts and Human Sciences](https://liberalarts.vt.edu/) at Virginia Tech. I lead the college's **Tech for Humanity (TfH)** initiative and am affiliated with the Virginia Tech Centers for [Human-Computer Interaction](http://hci.vt.edu/) and [Communicating Science](https://communicatingscience.isce.vt.edu/).
 
 My work sits at the intersection of content, technology, and human communication. I research how structured authoring, automation, and artificial intelligence are transforming the way organizations create, manage, and deliver information — including how algorithmic systems impose their own intention on content as they generate, rank, and mediate it.
 
